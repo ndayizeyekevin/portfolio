@@ -486,7 +486,6 @@ main {
 .navbar-link:hover,
 .navbar-link:focus { color: cyan; }
 
-.navbar-link.active { color: var(--orange-yellow-crayola); }
 
 
 
